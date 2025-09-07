@@ -11,7 +11,7 @@ Using Python and Jupyter Notebook, we perform data cleaning, analysis, and visua
 
 ---
 ## Requirements
-1 Python 3.x
+1 Python 
 2 pandas
 3 numpy
 4 matplotlib
